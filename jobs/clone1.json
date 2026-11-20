@@ -1,0 +1,3 @@
+{"lines": ["Numa cidade, os óculos ficavam vermelhos toda vez que alguém mentia.", "O chefe prometeu aumento para todo mundo.", "Os óculos nunca detectaram mentira nenhuma.", "Mesmo assim, desde então, ninguém mais mentiu."],
+ "unit": "line", "chatterbox": true, "ref": "refs/voz.wav",
+ "variants": [{"tag": "natural", "exaggeration": 0.5, "cfg": 0.5, "temperature": 0.7}, {"tag": "dramatico", "exaggeration": 0.75, "cfg": 0.3, "temperature": 0.7}]}
