@@ -1,0 +1,2 @@
+{"lines": ["Numa cidade, os óculos ficavam vermelhos toda vez que alguém mentia.", "Os óculos nunca detectaram mentira nenhuma.", "Mesmo assim, desde então, ninguém mais mentiu."],
+ "edge": ["pt-BR-AntonioNeural", "pt-BR-FranciscaNeural", "pt-BR-ThalitaMultilingualNeural"], "chatterbox": true}
